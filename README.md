@@ -1,8 +1,8 @@
 # Fetch Coding Exercise - SDET
 
-This project involves the utilization of Java with Selenium for executing various tasks and scenarios specified in the Fetch Rewards SDET Coding Exercise.
+This project involves the utilization of Java with Selenium for executing various tasks and scenarios specified in the [Fetch Rewards SDET Coding Exercise](https://fetch-hiring.s3.amazonaws.com/SDET/Fetch_Coding_Exercise_SDET.pdf).
 
-- Link to the task can be found [here](https://fetch-hiring.s3.amazonaws.com/SDET/Fetch_Coding_Exercise_SDET.pdf).
+This script is used to conduct tests on the provided [Game](http://sdetchallenge.fetch.com/).
 
 ## Tech Stack:
 
@@ -20,7 +20,7 @@ This project involves the utilization of Java with Selenium for executing variou
 
 ### Set up
 
-- Make sure you have [java](https://www.java.com/en/download/help/download_options.html) and [maven](https://maven.apache.org/install.html) running on your machine.
+- Make sure you have [Java](https://www.java.com/en/download/help/download_options.html) and [Maven](https://maven.apache.org/install.html) running on your machine.
 
 - Run ```mvn -v``` in terminal and confirm maven is installed.
 
@@ -42,7 +42,7 @@ mvn compile
 mvn exec:java
 ```
 
-- You will see output similar to beow output, once it is started
+- You will see output similar to below text, once it is started:
 
 ```
 ------------------------
